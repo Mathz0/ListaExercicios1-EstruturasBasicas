@@ -1,7 +1,7 @@
 
 # 📘 Lista de Exercícios 1 - Estudando as Estruturas Básicas  
-**Trilha T1 - Desenvolvedor Full Stack Júnior**  
-Parceria: **+praTi & Codifica**
+**T1 - Desenvolvedor Full Stack Júnior**  
+**+praTi & Codifica**
 
 ---
 
@@ -34,7 +34,7 @@ O objetivo desta lista é exercitar os primeiros conceitos fundamentais na forma
 - **Exercício 14** – Cálculo de fatorial
 - **Exercício 15** – Sequência de Fibonacci
 
-Cada exercício está salvo em um arquivo `.js` separado, com nome claro, como `exercicio01.js`, `exercicio02.js`, etc.
+Cada exercício está salvo em um arquivo `.js` separado, com nome claro, como `Questao01.js`, `Questao02.js`, etc.
 
 ---
 
@@ -52,16 +52,14 @@ Para executar os arquivos JavaScript você precisa ter instalado:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/Mathz0/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Mathz0/ListaExercicios1-EstruturasBasicas.git
+cd ListaExercicios1-EstruturasBasicas
 ```
-
-> Substitua `nome-do-repositorio` pelo nome real do seu projeto no GitHub.
 
 2. **Execute um dos arquivos com Node.js:**
 
 ```bash
-node exercicio01.js
+node Questao01.js
 ```
 
 > Você será guiado por mensagens no terminal e poderá interagir com o programa.
@@ -72,10 +70,10 @@ node exercicio01.js
 
 ```
 📦 ListaExercicios1
-├── exercicio01.js
-├── exercicio02.js
+├── Questao01.js
+├── Questao02.js
 ├── ...
-├── exercicio15.js
+├── Questao15.js
 └── README.md
 ```
 

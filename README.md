@@ -89,5 +89,5 @@ node Questao01.js
 
 ### 👨‍💻 Autor
 
-Feito com dedicação por **[Matheus Capuchinho](https://github.com/Mathz0)**
+Feito por **[Matheus Capuchinho](https://github.com/Mathz0)**
 Desenvolvido como parte da trilha de formação **T1 - Dev Full Stack Júnior**, promovida pelas iniciativas **+praTi** e **Codifica**
